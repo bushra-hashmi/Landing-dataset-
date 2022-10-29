@@ -1,1 +1,2 @@
 # Landing-dataset-
+The main objective of the data set is to find out the probability that borrowers will returnthe loan amount of investors, and predict the model through analysis of the chances ofinvestors' money will not get fall. for that different variables have been chosen to check thecredibility of the borrowers like credit score, borrower's debt-to-income ratio, borrower'srevolving balance and public record.
